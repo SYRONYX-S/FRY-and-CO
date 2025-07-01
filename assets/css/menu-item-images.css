@@ -1,0 +1,532 @@
+/* Designed and developed by SYRONYX Web and App Solutions */
+
+
+
+/*################################
+Menu Item Navbar Images
+################################*/
+
+
+.menu-item-type .fresh-juice-items-image {
+  background: url(../img/menu/fresh-juice/fresh-juice-slider-image.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .lemon-juice-items-image {
+  background: url(../img/menu/lemon-juice/lemon-juice-slider-image.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.menu-item-type .shakes-items-image {
+  background: url(../img/menu/shakes/shakes-slider-image.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.menu-item-type .sandwich-items-image {
+  background: url(../img/menu/sandwich/chicken-club-sandwich.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .fried-items-image {
+  background: url(../img/menu/fried/fried-full-8pcs.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .burger-items-image {
+  background: url(../img/menu/burger/zinger-burger.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .loaded-fries-items-image {
+  background: url(../img/menu/loaded-fries/zinger-chicken-loaded-fries.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .wrap-items-image {
+  background: url(../img/menu/wraps/zinger-chicken-wrap.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-type .soda-mojito-items-image {
+  background: url(../img/menu/soda&mojito/mojito-slider-image.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/*################################
+  Menu Single Items Images
+  ################################*/
+
+.menu-item-card .menu-item-image {
+  background: url(/assets/img/menu/blank.webp) no-repeat;
+  background-position: center;
+  filter: brightness(1);
+  background-size: cover;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 8px;
+}
+
+/* STARTERS  */
+.menu-item-card .french-fries-image {
+  background: url(../img/menu/starters/french-fries.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-samoosa-image {
+  background: url(../img/menu/starters/chicken-samoosa.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .vegetable-samoosa-image {
+  background: url(../img/menu/starters/vegetable-samoosa.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-lollypop-image {
+  background: url(../img/menu/starters/chicken-lollypop.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .prawns-dry-fry-image {
+  background: url(../img/menu/starters/prawns-dry-fry.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+/* SOUPS */
+.menu-item-card .sweet-corn-chicken-veg-soup-image {
+  background: url(../img/menu/soup/sweet-corn-chicken-veg-soup.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .hot-and-sour-chicken-veg-soup-image {
+  background: url(../img/menu/soup/hot-sour-chicken-veg-soup.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .lentil-soup-image {
+  background: url(../img/menu/soup/lentil-soup.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-cream-soup-image {
+  background: url(../img/menu/soup/chicken-cream-soup.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+/* CHICKEN */
+.menu-item-card .butter-chicken-image {
+  background: url(../img/menu/chicken/butter-chicken.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-tikka-masala-image {
+  background: url(../img/menu/chicken/chicken-tikka-masala.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-65-dry-image {
+  background: url(../img/menu/chicken/chicken-65.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-jalfrezy-image {
+  background: url(../img/menu/chicken/chicken-jalfrezy.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-curry-image {
+  /* background: url(../img/menu/chicken/butter-chicken.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-korma-image {
+  /* background: url(../img/menu/chicken/butter-chicken.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-manchurian-dry-gravy-image {
+  /* background: url(../img/menu/chicken/butter-chicken.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-chilli-dry-gravy-image {
+  /* background: url(../img/menu/chicken/butter-chicken.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* MUTTON AND BEEF */
+.menu-item-card .mutton-masala-image {
+  /* background: url(../img/menu/mutton-and-beef/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .mutton-korma-image {
+  /* background: url(../img/menu/mutton-and-beef/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .mutton-rogan-josh-image {
+  background: url(../img/menu/mutton-and-beef/mutton-rogan-josh.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .beef-fry-masala-image {
+  /* background: url(../img/menu/mutton-and-beef/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .beef-dry-chilli-image {
+  /* background: url(../img/menu/mutton-and-beef/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .beef-kadai-image {
+  /* background: url(../img/menu/mutton-and-beef/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* SEAFOOD */
+.menu-item-card .prawns-masala-image {
+  /* background: url(../img/menu/seafood/prawns-65.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .prawns-65-image {
+  background: url(../img/menu/seafood/prawns-65.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .prawns-butter-masala-image {
+  /* background: url(../img/menu/seafood/prawns-65.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .garlic-prawns-masala-image {
+  /* background: url(../img/menu/seafood/prawns-65.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .fish-masala-image {
+  background: url(../img/menu/seafood/fish-masala.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .fish-65-image {
+  /* background: url(../img/menu/seafood/fish-masala.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* VEGETABLES */
+.menu-item-card .mix-vegetable-curry-image {
+  background: url(../img/menu/vegetables/mix-vegetable-curry.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .daal-tadka-image {
+  /* background: url(../img/menu/vegetables/mix-vegetable-curry.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .paneer-butter-masala-image {
+  /* background: url(../img/menu/vegetables/mix-vegetable-curry.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .aloo-masala-image {
+  /* background: url(../img/menu/vegetables/mix-vegetable-curry.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* NOODLES */
+.menu-item-card .chicken-noodles-image {
+  /* background: url(../img/menu/noodles/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .egg-noodles-image {
+  /* background: url(../img/menu/noodles/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .vegetable-noodles-image {
+  /* background: url(../img/menu/noodles/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .shezwan-chicken-noodles-image {
+  /* background: url(../img/menu/noodles/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* RICE */
+.menu-item-card .chicken-biriyani-image {
+  background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .mutton-biriyani-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .prawns-biriyani-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .fish-biriyani-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .beef-biriyani-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .vegetable-biriyani-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .biriyani-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .white-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-fried-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .vegetable-fried-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .egg-fried-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .shezwan-chicken-fried-rice-image {
+  /* background: url(../img/menu/rice/chicken-biriyani.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* GRILLED */
+.menu-item-card .prawns-grill-image {
+  background: url(../img/menu/grilled/prawns-grill.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .fish-fillet-grill-image {
+  background: url(../img/menu/grilled/fish-fillet.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-tikka-image {
+  background: url(../img/menu/grilled/chicken-tikka.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-sheek-kebab-image {
+  background: url(../img/menu/grilled/chicken-sheek-kabab.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-malai-tikka-image {
+  /* background: url(../img/menu/grilled/chicken-tikka.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-thandoori-image {
+  background: url(../img/menu/grilled/thandoori-chicken.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .chicken-shish-thawook-image {
+  background: url(../img/menu/grilled/chicken-shish-thawook.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .special-mix-grill-image {
+  background: url(../img/menu/grilled/mix-grill.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* BREAD */
+.menu-item-card .butter-naan-image {
+  background: url(../img/menu/bread/butter-naan.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .garlic-naan-image {
+  background: url(../img/menu/bread/garlic-naan.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .plain-naan-image {
+  background: url(../img/menu/bread/plain-naan.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .thandoori-rotti-image {
+  /* background: url(../img/menu/bread/) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .poratta-image {
+  background: url(../img/menu/bread/poratta.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* SAUCES & SALAD */
+.menu-item-card .raita-image {
+  background: url(../img/menu/sauces-and-salad/raita.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .green-sauce-image {
+  background: url(../img/menu/sauces-and-salad/green-sauce.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .garlic-sauce-image {
+  background: url(../img/menu/sauces-and-salad/gralic-sauce.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .lemon-pickle-image {
+  /* background: url(../img/menu/sauces-and-salad/raita.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .mixed-salad-image {
+  background: url(../img/menu/sauces-and-salad/green-salad.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* DESSERT */
+.menu-item-card .gulab-jamun-image {
+  background: url(../img/menu/dessert/gulab-jamun.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .carrot-halwa-image {
+  /* background: url(../img/menu/dessert/gulab-jamun.jpg) no-repeat ; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* DRINKS */
+.menu-item-card .royal-champagne-image {
+  background: url(../img/menu/drinks/royal-champagne.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .soft-drinks-image {
+  background: url(../img/menu/drinks/soft-drinks.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .soft-drinks-family-bottle-image {
+  background: url(../img/menu/drinks//family-drink.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-item-card .water-image {
+  background: url(../img/menu/drinks/water.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
